@@ -1,1 +1,2 @@
-# Classs-35-Log-Names
+# synchronousBallMovement
+Ball moving synchronously
